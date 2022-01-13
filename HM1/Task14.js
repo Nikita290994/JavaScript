@@ -1,3 +1,3 @@
-for (var n = 1000, i = 0; n > 50; n = n / 2, i++);
+for (var n = 1000, num = 0; n > 50; n = n / 2, num++);
 console.log(n);
-console.log(i);
+console.log(num);
